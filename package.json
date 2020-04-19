@@ -1,0 +1,29 @@
+{
+	"name": "hopeful-covid-bot",
+	"version": "0.0.1",
+	"description": "Little bot that tweets uplifting COVID-19 news",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"dotenv": "^6.2.0",
+		"twit": "^2.1.0",
+		"express": "^4.14.0"
+	},
+	"engines": {
+		"node": "8.x"
+	},
+	"repository": {
+		"url": "https://github.com/carolstran/hopeful-covid-bot"
+	},
+	"keywords": [
+		"node",
+		"glitch",
+		"gomix",
+		"hyperdev",
+		"twitter",
+		"twitterbot",
+		"bot"
+	]
+}
