@@ -1,5 +1,4 @@
-module.exports = {
-    data: [
+const data = [
     {
       text: "🚸 Norway's Prime Minister holds children-only COVID-19 press conference",
       link: "https://www.sbs.com.au/news/it-s-okay-to-be-scared-norway-pm-holds-children-only-covid-19-press-conference",
@@ -204,6 +203,12 @@ module.exports = {
       text: "🇪🇺 The European Union offers a heartfelt apology to Italy over coronavirus response",
       link: "https://www.dw.com/en/coronavirus-eu-apologizes-to-italy-for-initial-response/a-53142603",
       source: "@dwnews"
+    },
+    {
+      text: "🏳️‍🌈 A new daily text service reminds trans and non-binary people 'of not only how great they are, but how valid their identity is' during the public health crisis.",
+      link: "https://www.forbes.com/sites/jamiewareham/2020/04/11/free-text-service-is-sending-daily-support-to-isolated-trans-people/#1d882c002dc2",
+      source: "@Forbes"
     }
-  ]
-  } 
+  ];
+
+exports.data = data;
