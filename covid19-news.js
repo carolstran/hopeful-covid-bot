@@ -208,6 +208,61 @@ const data = [
       text: "🏳️‍🌈 A new daily text service reminds trans and non-binary people 'of not only how great they are, but how valid their identity is' during the public health crisis.",
       link: "https://www.forbes.com/sites/jamiewareham/2020/04/11/free-text-service-is-sending-daily-support-to-isolated-trans-people/#1d882c002dc2",
       source: "@Forbes"
+    },
+    {
+      text: "😍 Dr. Anthony Fauci nominated for @people's Sexiest Man Alive - plus you can now get 🧦👕🍩 with his face on it",
+      link: "https://www.cnet.com/news/dr-anthony-fauci-nominated-for-people-magazine-sexiest-man-alive-as-fauci-merch-abounds/",
+      source: "@CNET"
+    },
+    {
+      text: "👻 A village in Indonesia has reportedly taken to using volunteers dressed as ghosts to try to scare people into social distancing - and it's working",
+      link: "https://www.bbc.com/news/amp/world-asia-52269607",
+      source: "@BBCWorld"
+    },
+    {
+      text: "🦠 Rajesh Babu, a police inspector in India, wears coronavirus helmet while stopping vehicles and pedestrians at checkpoints to spread awareness",
+      link: "https://edition.cnn.com/2020/03/30/asia/coronavirus-helmet-chennai-intl-hnk-scli/index.html",
+      source: "@CNN"
+    },
+    {
+      text: "🦠 Car museum owner in India has made a one-seater car that looks like the coronavirus to spread awareness",
+      link: "https://www.youtube.com/watch?v=n5AKzgCvmS4",
+      source: "@globalnews"
+    },
+    {
+      text: "👑 People around the world are dressing up to take out their trash bins",
+      link: "https://www.youtube.com/watch?v=AtraPELYvsU",
+      source: "@CBSNews"
+    },
+    {
+      text: "🥽 Lego is making 13,000 face visors a day to protect healthcare workers in Denmark",
+      link: "https://www.businessinsider.com/lego-goggles-protective-a-day-for-coronavirus-outbreak-ppe-2020-4?r=DE&IR=T",
+      source: "@businessinsider"
+    },
+    {
+      text: "🐼 After about 10 years of trying, giant pandas Ying Ying and Le Le finally mated at the Ocean Park zoo in Hong Kong",
+      link: "https://www.huffpost.com/entry/giant-pandas-mating-ocean-park-coronavirus-lockdown_n_5e8c5e8ec5b62459a92ef006",
+      source: "@HuffPost"
+    },
+    {
+      text: "🍺 @CoorsLight delivers 150 beers to a 93-year-old woman after an image of her holding a 'I NEED MORE BEER!!' sign goes viral",
+      link: "https://www.tmz.com/2020/04/13/coors-light-delivers-150-beers-93-year-old-viral-plea-i-need-more-beer-coronavirus-lockdown/",
+      source: "@TMZ"
+    },
+    {
+      text: "🐻 Animals in Yosemite National Park are 'having a party' after tourism slows during California's lockdown",
+      link: "https://sanfrancisco.cbslocal.com/2020/04/15/coronavirus-yosemite-national-park-bears-party-no-tourists-coronavirus-covid-19-shelter-in-place/",
+      source: "@KPIXtv"
+    },
+    {
+      text: "🐕 Pet adoptions increase in the U.S. during COVID-19 pandemic",
+      link: "https://www.msn.com/en-us/lifestyle/pets/pet-adoptions-increase-during-covid-19-pandemic/ar-BB11I67f",
+      source: "@WFSBnews"
+    },
+    {
+      text: "🍕 Groundhog appears outside Philadelphia home and munches on pizza for an hour 'unfazed'",
+      link: "https://thetakeout.com/this-viral-video-of-pizza-groundhog-is-all-of-us-1842899334",
+      source: "@thetakeout"
     }
   ];
 
