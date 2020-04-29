@@ -190,12 +190,12 @@ const data = [
       source: "@momuses"
     },
     {
-      text: "🥼 Cuban doctors travel to Italy to help battle coronavirus",
+      text: "🩺 Cuban doctors travel to Italy to help battle coronavirus",
       link: "https://www.reuters.com/article/us-health-coronavirus-cuba/cuban-doctors-head-to-italy-to-battle-coronavirus-idUSKBN219051",
       source: "@reuters"
     },
     {
-      text: "💉 There are indications that COVID-19 has a low mutation rate, meaning once a vaccine is developed it's likely to be a long-term solution",
+      text: "🧪 There are indications that COVID-19 has a low mutation rate, meaning once a vaccine is developed it's likely to be a long-term solution",
       link: "https://nymag.com/intelligencer/2020/03/low-coronavirus-mutations-mean-hope-for-a-single-vaccine.html",
       source: "@intelligencer"
     },
@@ -263,6 +263,16 @@ const data = [
       text: "🍕 Groundhog appears outside Philadelphia home and munches on pizza for an hour 'unfazed'",
       link: "https://thetakeout.com/this-viral-video-of-pizza-groundhog-is-all-of-us-1842899334",
       source: "@thetakeout"
+    },
+    {
+      text: "🧫 South Korean health experts say that recovered coronavirus patients may have tested positive again due to traces of virus fragments that have been inactivated",
+      link: "https://en.yna.co.kr/view/AEN20200429007051320",
+      source: "@YonhapNews"
+    },
+    {
+      text: "🧫 New antibody test to check whether someone has been infected with coronavirus, and said to be 99% accurate, has been certified for use across Europe",
+      link: "https://www.independent.co.uk/news/health/coronavirus-antibody-test-approval-news-europe-uk-accuracy-abbot-a9490026.html?utm_source=reddit.com",
+      source: "@Independent"
     }
   ];
 
