@@ -8,6 +8,8 @@ You can [follow @hopefulcovidbot on Twitter](https://twitter.com/hopefulcovidbot
 
 ## Contributing
 
+> ⚠️ This project has a [Code of Conduct](./CODE_OF_CONDUCT.md) that _all_ contributors are expected to follow.
+
 The best way to get involved is by submitting a story for the bot to tweet.
 
 All of the stories are stored in [`covid19-news.js`](./covid19-news.js). 
@@ -31,3 +33,9 @@ Here's what to include in each field...
     <br> Example: @Oregonian
     
  Once you've updated the `covid19-news.js` file, [open a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) 💖
+
+## Show your support
+
+If you like this bot, please consider buying me a coffee so that I can continue to make wholesome things!
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L41MXHP)
