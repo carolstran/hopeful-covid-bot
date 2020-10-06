@@ -6,7 +6,7 @@ let path = require( 'path' ),
     express = require( 'express' ),
     app = express();
 
-app.use( express.static( 'public' ) );
+app.use( express.static( path.join(__dirname, "public") ) );
 
 /* Uses cron-job to wake up the app and make the bot tweet. */
 
