@@ -103,6 +103,11 @@ const data = [
       text: "🚸 CNN and @sesamestreet host a townhall for families about navigating the back-to-school season during a pandemic",
       link: "https://edition.cnn.com/2020/09/12/us/sesame-street-cnn-town-hall-coronavirus-parents-trnd/index.html",
       source: "@CNN"
+    },
+    {
+      text: "🇳🇿 Covid-19: 'Near extinction' of influenza in NZ due to lockdown - epidemiologist",
+      link: "https://www.stuff.co.nz/national/health/coronavirus/300129782/covid19-near-extinction-of-influenza-in-nz-due-to-lockdown--epidemiologist",
+      source: "@NZStuff"
     }
   ];
 
