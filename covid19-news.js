@@ -108,6 +108,11 @@ const data = [
       text: "🇳🇿 Covid-19: 'Near extinction' of influenza in NZ due to lockdown - epidemiologist",
       link: "https://www.stuff.co.nz/national/health/coronavirus/300129782/covid19-near-extinction-of-influenza-in-nz-due-to-lockdown--epidemiologist",
       source: "@NZStuff"
+    },    
+    {
+      text: "👩‍🔬 New Study Suggests COVID-19 survivors may have protective antibodies for up to four months",
+      link: "https://news.sky.com/story/coronavirus-covid-19-survivors-may-have-protective-antibodies-for-up-to-four-months-study-suggests-12102310",
+      source: "@SkyNews"
     }
   ];
 
